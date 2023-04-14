@@ -16,3 +16,5 @@ console.log('sum of all item : ' + sum)
 console.log('GST(18%) : ' + percentageGST)
 console.log('DeliveryCost : ' + deliveryCost)
 console.log('TotalCost : ' + totalCost)
+
+
