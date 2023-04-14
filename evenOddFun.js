@@ -6,3 +6,9 @@ function evenOdd(A){
     }
 }
 evenOdd(5)
+function result(n)
+if (n=0) {
+    console.log(n + 'is true');
+} else{
+    console.log(n + 'is false');
+} 
